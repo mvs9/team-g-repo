@@ -1,0 +1,109 @@
+{
+  "button1": {
+    "type": "stack",
+    "col": 8,
+    "height": 1,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "auto",
+        "width": 74,
+        "height": 40
+      }
+    }
+  },
+  "button5": {
+    "type": "stack",
+    "col": 10,
+    "height": 0.8,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "auto",
+        "width": 74,
+        "height": 40
+      }
+    }
+  },
+  "container1": {
+    "container": "listView1",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "containerTitle1": {
+    "container": "container1",
+    "rowGroup": "header",
+    "subcontainer": "dbace",
+    "col": 1,
+    "height": 0.6,
+    "width": 9
+  },
+  "icon1": {
+    "container": "container1",
+    "subcontainer": "dbace",
+    "height": 0.8,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "listView1": {
+    "row": 1.6,
+    "height": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "table1": {
+    "row": 1.8,
+    "col": 3,
+    "height": 1,
+    "width": 9
+  },
+  "table1SearchFilter": {
+    "row": 1.6,
+    "col": 3,
+    "height": 0.2,
+    "width": 9
+  },
+  "text1": {
+    "container": "container1",
+    "subcontainer": "dbace",
+    "col": 1,
+    "height": 0.6,
+    "width": 11,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "text2": {
+    "row": 0.2,
+    "height": 0.6,
+    "width": 2
+  }
+}

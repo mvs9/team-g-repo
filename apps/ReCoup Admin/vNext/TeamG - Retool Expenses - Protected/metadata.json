@@ -1,0 +1,29 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "32d6d2b2-0d4f-11f0-b350-c31e724860cb",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "walletPage": {
+          "array": []
+        },
+        "tasksPage": {
+          "array": []
+        },
+        "spendLimitPage": {
+          "array": []
+        },
+        "expensesPage": {
+          "array": []
+        },
+        "page1": {
+          "array": []
+        }
+      }
+    },
+    "rootScreen": "walletPage",
+    "version": "3.178.0",
+    "experimentalDataTabEnabled": true
+  }
+}
