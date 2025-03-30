@@ -15,5 +15,7 @@
     padding="8px 12px"
     sticky={null}
     type="main"
-  />
+  >
+    <Button id="button11" text="Button" />
+  </Frame>
 </Screen>

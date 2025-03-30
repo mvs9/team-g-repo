@@ -49,12 +49,6 @@
       text="Request a new reimbursement"
     />
     <Text id="text2" value="## My Wallet" verticalAlign="center" />
-    <TextInput
-      id="table1SearchFilter"
-      hideLabel={true}
-      label=""
-      placeholder="Search or filter..."
-    />
     <ListViewBeta
       id="listView1"
       _primaryKeys="{{ item.id }}"
@@ -97,6 +91,12 @@
         </View>
       </Container>
     </ListViewBeta>
+    <TextInput
+      id="table1SearchFilter"
+      hideLabel={true}
+      label=""
+      placeholder="Search or filter..."
+    />
     <Table
       id="table1"
       cellSelection="none"
