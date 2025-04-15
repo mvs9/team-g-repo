@@ -17,6 +17,7 @@
     type="main"
   >
     <Button id="button11" text="Button" />
+    <Button id="button12" text="Button" />
     <Image
       id="image1"
       heightType="fixed"
